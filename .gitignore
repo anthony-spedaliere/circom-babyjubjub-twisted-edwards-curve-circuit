@@ -1,0 +1,21 @@
+# Build artifacts
+*.wasm
+*.zkey
+*.r1cs
+*.sym
+*.ptau
+*.json
+
+# Node modules
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log 
