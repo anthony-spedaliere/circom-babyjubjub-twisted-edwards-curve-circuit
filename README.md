@@ -6,7 +6,8 @@ This repository contains a Circom circuit implementation for point addition on t
 
 The circuit implements point addition on the BabyJubJub curve with the equation:
 
-```ax^2 + y^2 = 1 + dx^2y^2
+```
+ax^2 + y^2 = 1 + dx^2y^2
 
 ```
 
